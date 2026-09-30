@@ -1,5 +1,3 @@
 node_modules
 dist
 .claude
-# личный профиль — только локально
-src/profile.local.json
